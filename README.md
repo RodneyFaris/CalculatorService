@@ -1,4 +1,4 @@
 # CalculatorService
-.Net Core Console Dependency Injection and Single Concern Example
+.Net Core Console Dependency Injection and Single Responsibility Principle Example
 
-The project provides an example of a console applicaiton that uses dependency injection and single concern.
+The application illustrates dependency injection and the single responsibility principle.
